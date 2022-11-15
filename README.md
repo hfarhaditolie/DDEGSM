@@ -1,4 +1,5 @@
-This code is associated with the paper entitled # "Screen content image quality assessment using distortion-based directional edge and gradient similarity maps".
+This code is associated with the paper entitled:
+# "Screen content image quality assessment using distortion-based directional edge and gradient similarity maps"
 
 Please refer to the following paper:
 
